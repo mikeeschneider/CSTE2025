@@ -1,2 +1,1 @@
-# CSTE2025
-This is a repository for CSTE 2025 materials and abstracts
+This is a repository that contains presentations and materials for abstracts that are accepted at the 2025 Annual Council for State and Territorial Epidemiologists (CSTE)
